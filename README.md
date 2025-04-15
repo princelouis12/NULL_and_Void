@@ -23,5 +23,5 @@ Window functions are super helpful in:
 (We’ll add screenshots here later)
 
 ## 🔗 Instructor Access
-Added `ericmaniraguha` as a collaborator ✅
+Added `ericmaniraguha` as a collaborator
 
