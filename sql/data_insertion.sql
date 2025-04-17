@@ -1,0 +1,21 @@
+-- Insert sample data
+INSERT INTO sales_orders VALUES (1, 'Jean Niyonzima', 'Kigali', 'Laptop', 2, 700, 1400, TO_DATE('2024-01-10', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (2, 'Alice Mukamana', 'Huye', 'Smartphone', 3, 300, 900, TO_DATE('2024-01-12', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (3, 'Eric Habimana', 'Musanze', 'Tablet', 1, 450, 450, TO_DATE('2024-01-15', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (4, 'Chantal Uwase', 'Kigali', 'Laptop', 1, 700, 700, TO_DATE('2024-01-20', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (5, 'Patrick Ndoli', 'Rubavu', 'Smartphone', 2, 300, 600, TO_DATE('2024-01-25', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (6, 'Claudine Ingabire', 'Huye', 'Tablet', 3, 450, 1350, TO_DATE('2024-02-01', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (7, 'Jean Paul Mugisha', 'Kigali', 'Laptop', 1, 700, 700, TO_DATE('2024-02-05', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (8, 'Yvette Uwimana', 'Musanze', 'Smartphone', 4, 300, 1200, TO_DATE('2024-02-10', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (9, 'Theoneste Gatera', 'Rubavu', 'Tablet', 2, 450, 900, TO_DATE('2024-02-12', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (10, 'Solange Nyiramana', 'Kigali', 'Laptop', 2, 700, 1400, TO_DATE('2024-02-15', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (11, 'David Nshimiyimana', 'Huye', 'Smartphone', 1, 300, 300, TO_DATE('2024-02-20', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (12, 'Florence Akaliza', 'Musanze', 'Tablet', 1, 450, 450, TO_DATE('2024-02-25', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (13, 'Samuel Rukundo', 'Rubavu', 'Laptop', 3, 700, 2100, TO_DATE('2024-03-01', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (14, 'Ange Ishimwe', 'Kigali', 'Smartphone', 2, 300, 600, TO_DATE('2024-03-05', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (15, 'Janet Mukeshimana', 'Huye', 'Tablet', 2, 450, 900, TO_DATE('2024-03-10', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (16, 'Alain Uwizeye', 'Musanze', 'Laptop', 1, 700, 700, TO_DATE('2024-03-15', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (17, 'Clarisse Nyirabera', 'Rubavu', 'Smartphone', 5, 300, 1500, TO_DATE('2024-03-20', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (18, 'Eric Tuyisenge', 'Kigali', 'Tablet', 3, 450, 1350, TO_DATE('2024-03-25', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (19, 'Josiane Uwera', 'Huye', 'Laptop', 2, 700, 1400, TO_DATE('2024-04-01', 'YYYY-MM-DD'));
+INSERT INTO sales_orders VALUES (20, 'Dieudonne Habiyaremye', 'Musanze', 'Smartphone', 1, 300, 300, TO_DATE('2024-04-05', 'YYYY-MM-DD'));
