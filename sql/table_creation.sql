@@ -9,3 +9,4 @@ CREATE TABLE sales_orders (
     total_amount   NUMBER,
     order_date     DATE
 );
+
