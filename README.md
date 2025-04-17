@@ -14,10 +14,6 @@ Explore and implement **SQL Window Functions** like `LAG()`, `LEAD()`, `RANK()`,
 
 ## 🧠 Real-life Applications
 Window functions are super helpful in:
-- Ranking employees or students
-- Comparing sales or performance over time
-- Finding top performers
-- Analyzing trends
 
 ## 📷 Screenshots & Output
 (We’ll add screenshots here later)
